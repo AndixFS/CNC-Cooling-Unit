@@ -1,0 +1,26 @@
+Partlist for CNC
+- Aluminium sheet for front panel 195x150x6mm
+- Aluminium for cooling head, 40x15x15 mm 
+- PE 129x109x40mm (for the housing)
+
+Electronics:
+- 3pcs 12mm button https://www.ebay.de/itm/264492799391
+- 2pcs 10k Ohm potentiometer
+- 1pcs PICO PI
+- 1pcs 2 channel photocoupler https://www.ebay.de/itm/284102542027?var=585594324600
+- 1pcs 2 channel relais with photocouplers https://www.ebay.de/itm/353149014364
+- 1pcs Step down power module https://www.ebay.de/itm/183980973810   
+- 1pcs Stepper driver carrier board https://www.ebay.de/itm/264416015422
+- 1pcs Stepper driver A4988 https://www.ebay.de/itm/264416015422
+- 1pcs LCD Module 4x20 https://www.ebay.de/itm/162451779646
+- 1pcs Pump https://www.ebay.de/itm/392317740630
+
+Mechanics:
+- 1pcs arm with central clamping https://www.ebay.de/itm/143450105517
+- 4pcs push fittings for cooling head and pipe adapter, which fits your hoses
+- 12pcs M3x5mm screw (modules)
+- 4pcs M2x5mm screw (Pico Pi)
+- 4pcs M3x45mm screw (housing)
+- 4pcs M3x12mm screw (LCD)
+- 6pcs M3x10mm screw (4x pump, 2x hose adapter)
+- 150mm silicone hose OD=4mm ID=2mm (pump to adaper)
